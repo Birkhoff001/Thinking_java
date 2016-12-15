@@ -17,6 +17,7 @@ class Insect {
 public class Beetle extends Insect {
 	int k = prt("Beetle.k initialized");
 	Beetle() {
+		super();
 		prt("k = " + k);
 		prt("j = " + j);
 	}

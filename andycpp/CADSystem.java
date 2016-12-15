@@ -1,7 +1,7 @@
 package andycpp;
 
 import java.util.*;
-
+/*
 class Shape {
 	Shape(int i) {
 		System.out.println("Shape constructor");
@@ -79,3 +79,4 @@ public class CADSystem extends Shape {
 		}
 	}
 }
+*/
